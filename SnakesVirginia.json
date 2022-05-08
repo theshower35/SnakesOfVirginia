@@ -1,15 +1,14 @@
 {
   "SnakesVirginia":
   [
-		{"SnakeName":"Eastern Copperhead",
-		"SnakeDescription":"Also known as the copperhead, is a species of venomous snake, a pit viper, endemic to eastern North America; it is a member of the subfamily Crotalinae in the family Viperidae. Its generic name is derived from the Greek words ancistro (hooked) and odon (tooth), or fishhook. The trivial name, or specific epithet, comes from the Latin contortus (twisted, intricate, complex), which is usually interpreted to reference the distorted pattern of darker bands across the snake's back, which are broad at the lateral base, but ''pinched'' into narrow hourglass shapes in the middle at the vertebral area.",
-		"SnakeGenus":"Agkistrodon",
-		"SnakeLength":"24-36 in.",
-		"SnakeDanger":"Venomous",
-		"SnakeStatus":"Least Concern",
-		"SnakeWebsite":"https://www.virginiaherpetologicalsociety.com/reptiles/snakes/copperhead/copperhead.php",
-		"SnakeImage":"https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/copperhead.jpg"},
-
+	{"SnakeName":"Eastern Copperhead",
+	"SnakeDescription":"Also known as the copperhead, is a species of venomous snake, a pit viper, endemic to eastern North America; it is a member of the subfamily Crotalinae in the family Viperidae. Its generic name is derived from the Greek words ancistro (hooked) and odon (tooth), or fishhook. The trivial name, or specific epithet, comes from the Latin contortus (twisted, intricate, complex), which is usually interpreted to reference the distorted pattern of darker bands across the snake's back, which are broad at the lateral base, but ''pinched'' into narrow hourglass shapes in the middle at the vertebral area.",
+	"SnakeGenus":"Agkistrodon",
+	"SnakeLength":"24-36 in.",
+	"SnakeDanger":"Venomous",
+	"SnakeStatus":"Least Concern",
+	"SnakeWebsite":"https://www.virginiaherpetologicalsociety.com/reptiles/snakes/copperhead/copperhead.php",
+	"SnakeImage":"https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/copperhead.jpg"},
 
         {"SnakeName":"Northern Cottonmouth"
         "SnakeDescription": "It is one of the world's few semiaquatic vipers (along with the Florida cottonmouth), and is native to the southeastern United States. As an adult, it is large and capable of delivering a painful and potentially fatal bite. When threatened, it may respond by coiling its body and displaying its fangs. Individuals may bite when feeling threatened or being handled in any way. It occurs in or near water, particularly in slow-moving and shallow lakes, streams, and marshes. It is a capable swimmer and is known to occasionally enter bays and estuaries and swim between barrier islands and the mainland.",
@@ -20,7 +19,6 @@
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/cottonmouth/cottonmouth.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/cottonmouth.jpg"},
 
-
         {"SnakeName": "Timber Rattlesnake",
         "SnakeDescription": "This is the only rattlesnake species in most of the populous Northeastern United States and is second only to its relatives to the west, the prairie rattlesnake, as the most northerly distributed venomous snake in North America. No subspecies are currently recognized.",
         "SnakeGenus": "Crotalus",
@@ -29,7 +27,6 @@
         "SnakeStatus": "Near Threatened",
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/timber-rattlesnake/timber_rattlesnake1.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/timber.jpg"},
-
 
         {"SnakeName": "Eastern Wormsnake",
         "SnakeDescription": "The species' range extends from southwest Massachusetts, south to southern Alabama, west to Louisiana and north to Illinois. This species is common in the ecotone between woodlands and wetlands. It may also be found in grasslands adjacent to woodlands. Though this snake can be abundant in parts of its range, it is rarely seen because of its fossorial lifestyle. When not underground, C. a. amoenus resides mostly under rocks, logs and leaf litter, or burrowed within rotting woody debris.",
@@ -40,7 +37,6 @@
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/eastern-wormsnake/eastern_worm_snake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/wormsnake.jpg"},
 
-
         {"SnakeName": "Eastern Ratsnake",
         "SnakeDescription": "Adults are shiny black dorsally, with a cream or white chin and throat. The belly has an irregular black and white checkerboard pattern, becoming uniformly slate gray towards the tail. Juveniles have dark dorsal blotches on a grayish ground color. The ventral pattern in juveniles is the same as in adults. The eyes are round with a black pupil, and particularly in juveniles but not always present in adults, a distinct white margin.",
         "SnakeGenus": "Pantherophis",
@@ -49,7 +45,6 @@
         "SnakeStatus": "Least Concern",
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/eastern-ratsnake/blackrat_snake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/ratsnake.jpg"},
-
 
         {"SnakeName": "Eastern Gartersnake",
         "SnakeDescription": "Its venom affects amphibian and reptile prey species, but — other than rare reactions — is harmless to humans. Fangless, it chews its salivic venom into the prey, slowing it down for easier handling while the snake works to swallow it whole.",
@@ -60,7 +55,6 @@
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/eastern-gartersnake/eastern_gartersnake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/garter.jpg"},
 
-
         {"SnakeName": "Northern Black Racer",
         "SnakeDescription": "A subspecies of the eastern racer (Coluber constrictor), a nonvenomous snake in the family Colubridae. The subspecies is present in the northeastern United States.",
         "SnakeGenus": "Coluber",
@@ -69,7 +63,6 @@
         "SnakeStatus": "Least Concern",
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/northern-black-racer/northern_black_racer.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/racer.jpg"},
-
 
         {"SnakeName": "Common Ribbonsnake",
         "SnakeDescription": "It is a non-venomous species of snake in the subfamily Natricinae of the family Colubridae. It is dark brown with bright yellow stripes. The ribbon snake is not sexually dimorphic; however, females are normally thicker than their male counterparts.",
@@ -80,7 +73,6 @@
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/common-ribbonsnake/common_ribbonsnake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/ribbon.jpg"},
 
-
         {"SnakeName": "Northern Ring-necked Snake",
         "SnakeDescription": "The northern ringneck snake has a body color from bluish grey to black, with a complete narrow yellow or orange ring around its neck and an underside matching the ring and generally lacking any dark spotting or patterning. The complete ring and lack of large dark spots on the belly differentiate it from other subspecies of D. punctatus. In some regions, there are areas of intergradation with other subspecies.",
         "SnakeGenus": "Diadophis",
@@ -89,7 +81,6 @@
         "SnakeStatus": "Least Concern",
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/northern-ring-necked-snake/northern_ring-necked_snake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/ringneck.jpg"},
-
 
         {"SnakeName": "Northern Mole Kingsnake",
         "SnakeDescription": "Mole kingsnakes' preferred habitat is open fields with loose, dry soil, typically on the edge of a forested region. Their diet consists primarily of rodents, but they will also consume lizards, frogs and occasionally other snakes. They are nonvenomous, and typically docile. Like most colubrids, if harassed they will vibrate their tail rapidly. These snakes are very secretive and very fossorial and rarely seen above ground during the day unless they are forced out by heavy rains. Mole kingsnakes are mainly nocturnal and commonly seen on paved roads at night.",
@@ -100,7 +91,6 @@
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/mole-kingsnake/mole_kingsnake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/mole.jpg"},
 
-
         {"SnakeName": "Eastern Kingsnake",
         "SnakeDescription": "A harmless colubrid species endemic to the United States and Mexico. It has long been a favorite among collectors. Nine subspecies are currently recognized, including the nominate subspecies described here.",
         "SnakeGenus": "Lampropeltis",
@@ -109,7 +99,6 @@
         "SnakeStatus": "Least Concern",
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/eastern-kingsnake/eastern_kingsnake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/kingsnake.jpg"},
-
 
         {"SnakeName": "Northern Watersnake",
         "SnakeDescription": "A species of large, nonvenomous, common snake in the family Colubridae. The species is native to North America. It is frequently mistaken for the venomous cottonmouth.",
@@ -120,7 +109,6 @@
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/northern-watersnake/northern_watersnake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/water.jpg"},
 
-
         {"SnakeName": "Northern Rough Greensnake",
         "SnakeDescription": "A nonvenomous North American colubrid. It is sometimes called grass snake or green grass snake, but these names are more commonly applied to the smooth green snake (Opheodrys vernalis). The European colubrid called grass snake (Natrix natrix) is unrelated. The rough green snake is docile, often allowing close approach by humans, and seldom bites. Even when bites occur, they have no venom and are harmless.",
         "SnakeGenus": "Opheodrys",
@@ -129,7 +117,6 @@
         "SnakeStatus": "Least Concern",
         "SnakeWebsite": "https://www.virginiaherpetologicalsociety.com/reptiles/snakes/rough-green-snake/rough_greensnake.php",
         "SnakeImage": "https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/rough.jpg"},
-
 
         {"SnakeName": "Red Cornsnake",
         "SnakeDescription": "A North American species of rat snake that subdues its small prey by constriction. It is found throughout the southeastern and central United States. Though superficially resembling the venomous copperhead and often killed as a result of this mistaken identity, corn snakes lack functional venom and are harmless. Corn snakes are beneficial to humans by helping to control populations of wild rodent pests that damage crops and spread disease.",
