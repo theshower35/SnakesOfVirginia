@@ -1,14 +1,14 @@
 {
   "SnakesVirginia":
   [
-		    {"SnakeName":"Eastern Copperhead",
-		    "SnakeDescription":"Also known as the copperhead, is a species of venomous snake, a pit viper, endemic to eastern North America; it is a member of the subfamily Crotalinae in the family Viperidae. Its generic name is derived from the Greek words ancistro (hooked) and odon (tooth), or fishhook. The trivial name, or specific epithet, comes from the Latin contortus (twisted, intricate, complex), which is usually interpreted to reference the distorted pattern of darker bands across the snake's back, which are broad at the lateral base, but ''pinched'' into narrow hourglass shapes in the middle at the vertebral area.",
-		    "SnakeGenus":"Agkistrodon",
-		    "SnakeLength":"24-36 in.",
-		    "SnakeDanger":"Venomous",
-		    "SnakeStatus":"Least Concern",
-		    "SnakeWebsite":"https://www.virginiaherpetologicalsociety.com/reptiles/snakes/copperhead/copperhead.php",
-		    "SnakeImage":"https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/copperhead.jpg"},
+	{"SnakeName":"Eastern Copperhead",
+	"SnakeDescription":"Also known as the copperhead, is a species of venomous snake, a pit viper, endemic to eastern North America; it is a member of the subfamily Crotalinae in the family Viperidae. Its generic name is derived from the Greek words ancistro (hooked) and odon (tooth), or fishhook. The trivial name, or specific epithet, comes from the Latin contortus (twisted, intricate, complex), which is usually interpreted to reference the distorted pattern of darker bands across the snake's back, which are broad at the lateral base, but ''pinched'' into narrow hourglass shapes in the middle at the vertebral area.",
+	"SnakeGenus":"Agkistrodon",
+	"SnakeLength":"24-36 in.",
+	"SnakeDanger":"Venomous",
+	"SnakeStatus":"Least Concern",
+	"SnakeWebsite":"https://www.virginiaherpetologicalsociety.com/reptiles/snakes/copperhead/copperhead.php",
+	"SnakeImage":"https://raw.githubusercontent.com/theshower35/SnakesOfVirginia/main/SnakeImages/copperhead.jpg"},
 
         {"SnakeName":"Northern Cottonmouth"
         "SnakeDescription": "It is one of the world's few semiaquatic vipers (along with the Florida cottonmouth), and is native to the southeastern United States. As an adult, it is large and capable of delivering a painful and potentially fatal bite. When threatened, it may respond by coiling its body and displaying its fangs. Individuals may bite when feeling threatened or being handled in any way. It occurs in or near water, particularly in slow-moving and shallow lakes, streams, and marshes. It is a capable swimmer and is known to occasionally enter bays and estuaries and swim between barrier islands and the mainland.",
